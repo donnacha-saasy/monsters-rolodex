@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/css/main.8fe26738.chunk.css",
+    "main.js": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/main.8e7c3ea7.chunk.js",
+    "main.js.map": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/main.8e7c3ea7.chunk.js.map",
+    "runtime-main.js": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/runtime-main.c205339f.js",
+    "runtime-main.js.map": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/runtime-main.c205339f.js.map",
+    "static/js/2.743303ce.chunk.js": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/2.743303ce.chunk.js",
+    "static/js/2.743303ce.chunk.js.map": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/2.743303ce.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/https//donnacha-saasy.hithub.io/monsters-rolodex/index.html",
+    "static/css/main.8fe26738.chunk.css.map": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/css/main.8fe26738.chunk.css.map",
+    "static/js/2.743303ce.chunk.js.LICENSE.txt": "/https//donnacha-saasy.hithub.io/monsters-rolodex/static/js/2.743303ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c205339f.js",
+    "static/js/2.743303ce.chunk.js",
+    "static/css/main.8fe26738.chunk.css",
+    "static/js/main.8e7c3ea7.chunk.js"
+  ]
+}
